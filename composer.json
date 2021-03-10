@@ -1,0 +1,22 @@
+{
+    "name": "alex101610/base",
+    "description": "base",
+    "type": "proyecto",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Alexmome\\":"app/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex10161010",
+            "email": "eliasalejandromome@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
+
+
